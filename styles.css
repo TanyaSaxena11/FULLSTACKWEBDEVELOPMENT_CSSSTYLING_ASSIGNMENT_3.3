@@ -1,0 +1,17 @@
+body{
+	background-color:blue;
+}
+
+header h1{
+	color:white;
+	text-align:center;
+	text-decoration-line:underline;
+	text-decoration-style:double;
+}
+
+#sample-text{
+	color:black;
+	font-weight:lighter;
+	font-size:18px;
+	font-style:oblique;
+}

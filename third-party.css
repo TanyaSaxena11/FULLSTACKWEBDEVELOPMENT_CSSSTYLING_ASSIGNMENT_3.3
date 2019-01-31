@@ -1,0 +1,14 @@
+body{
+	background-color:red;
+}
+
+header h1{
+	color:blue;
+}
+
+#sample-text{
+	color:pink;
+	font-weight:lighter;
+	font-size:20px;
+	font-style:italic;
+}
